@@ -1,4 +1,4 @@
-data = {'users': 150, 'revenue': 4500}
+data = {'users': 150, 'revenue': 4500, 'active_sessions': 12}
 
 def display_dashboard(metrics):
     print('--- Dashboard Metrics ---')
